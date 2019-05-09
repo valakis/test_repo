@@ -1,0 +1,12 @@
+name: test_repo
+
+environment:
+  sdk: '>=2.3.0 <3.0.0'
+
+dev_dependencies:
+  test: ^1.6.2
+  build_config: ^0.4.0
+  build_test: ^0.10.7
+  build_runner: ^1.4.0
+  build_web_compilers: ^2.0.0
+  js:

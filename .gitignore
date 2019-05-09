@@ -1,0 +1,7 @@
+*.pb*
+*.g.dart*
+*.pub/*
+*.dart_tool/*
+*.idea/*
+.packages
+pubspec.lock
